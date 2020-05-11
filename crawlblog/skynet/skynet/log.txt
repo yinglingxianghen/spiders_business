@@ -1,0 +1,267 @@
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com/pages/login/index.html in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+ERROR: Error while obtaining start requests
+Traceback (most recent call last):
+  File "C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\core\engine.py", line 127, in _next_request
+    request = next(slot.start_requests)
+  File "C:\Users\DELL\PycharmProjects\crawlblog\skynet\skynet\spiders\ocean_engine_spider.py", line 80, in start_requests
+    WebDriverWait(self.driver,10).until(EC.presence_of_element_located((By.XPATH, "//*[@id='login']/section/div[3]/div[4]/input"))).send_keys("1127597642@qq.com")
+  File "C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\selenium\webdriver\remote\webelement.py", line 479, in send_keys
+    'value': keys_to_typing(value)})
+  File "C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\selenium\webdriver\remote\webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable
+  (Session info: chrome=76.0.3809.132)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com/pages/login/index.html in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com/pages/login/index.html in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com/pages/login/index.html in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com/pages/login/index.html in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com/pages/login/index.html in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com/pages/login/index.html in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com/pages/login/index.html in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com/pages/login/index.html in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com/pages/login/index.html in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com/pages/login/index.html in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com/pages/login/index.html in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+CRITICAL: Unhandled Error
+Traceback (most recent call last):
+  File "C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\twisted\internet\base.py", line 434, in fireEvent
+    DeferredList(beforeResults).addCallback(self._continueFiring)
+  File "C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\twisted\internet\defer.py", line 322, in addCallback
+    callbackKeywords=kw)
+  File "C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\twisted\internet\defer.py", line 311, in addCallbacks
+    self._runCallbacks()
+  File "C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+--- <exception caught here> ---
+  File "C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\twisted\internet\base.py", line 447, in _continueFiring
+    callable(*args, **kwargs)
+  File "C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\twisted\internet\base.py", line 1064, in _stopThreadPool
+    self.threadpool.stop()
+builtins.AttributeError: 'NoneType' object has no attribute 'stop'
+
+CRITICAL: Unhandled Error
+Traceback (most recent call last):
+  File "C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\twisted\internet\base.py", line 434, in fireEvent
+    DeferredList(beforeResults).addCallback(self._continueFiring)
+  File "C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\twisted\internet\defer.py", line 322, in addCallback
+    callbackKeywords=kw)
+  File "C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\twisted\internet\defer.py", line 311, in addCallbacks
+    self._runCallbacks()
+  File "C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+--- <exception caught here> ---
+  File "C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\twisted\internet\base.py", line 447, in _continueFiring
+    callable(*args, **kwargs)
+  File "C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\twisted\internet\base.py", line 1064, in _stopThreadPool
+    self.threadpool.stop()
+builtins.AttributeError: 'NoneType' object has no attribute 'stop'
+
+CRITICAL: Unhandled Error
+Traceback (most recent call last):
+  File "C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\twisted\internet\base.py", line 434, in fireEvent
+    DeferredList(beforeResults).addCallback(self._continueFiring)
+  File "C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\twisted\internet\defer.py", line 322, in addCallback
+    callbackKeywords=kw)
+  File "C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\twisted\internet\defer.py", line 311, in addCallbacks
+    self._runCallbacks()
+  File "C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\twisted\internet\defer.py", line 654, in _runCallbacks
+    current.result = callback(current.result, *args, **kw)
+--- <exception caught here> ---
+  File "C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\twisted\internet\base.py", line 447, in _continueFiring
+    callable(*args, **kwargs)
+  File "C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\twisted\internet\base.py", line 1064, in _stopThreadPool
+    self.threadpool.stop()
+builtins.AttributeError: 'NoneType' object has no attribute 'stop'
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com/pages/login/index.html in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com/pages/login/index.html in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com/pages/login/index.html in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com/pages/login/index.html in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com/pages/login/index.html in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+ERROR: Error while obtaining start requests
+Traceback (most recent call last):
+  File "C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\core\engine.py", line 127, in _next_request
+    request = next(slot.start_requests)
+  File "C:\Users\DELL\PycharmProjects\crawlblog\skynet\skynet\spiders\ocean_engine_spider.py", line 80, in start_requests
+    WebDriverWait(self.driver,10).until(EC.presence_of_element_located((By.XPATH, "//*[@id='login']/section/div[3]/div[4]/input"))).send_keys("1127597642@qq.com")
+  File "C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\selenium\webdriver\remote\webelement.py", line 479, in send_keys
+    'value': keys_to_typing(value)})
+  File "C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\selenium\webdriver\remote\webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable
+  (Session info: chrome=76.0.3809.132)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com in allowed_domains.
+  warnings.warn(message, URLWarning)
+
+ERROR: Error while obtaining start requests
+Traceback (most recent call last):
+  File "C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\core\engine.py", line 127, in _next_request
+    request = next(slot.start_requests)
+  File "C:\Users\DELL\PycharmProjects\crawlblog\skynet\skynet\spiders\ocean_engine_spider.py", line 90, in start_requests
+    WebDriverWait(self.driver,10).until(EC.presence_of_element_located((By.XPATH, "//*[@id='login']/section/div[3]/div[6]/input"))).send_keys(b)
+  File "C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\selenium\webdriver\support\wait.py", line 71, in until
+    value = method(self._driver)
+  File "C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 64, in __call__
+    return _find_element(driver, self.locator)
+  File "C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 415, in _find_element
+    raise e
+  File "C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\selenium\webdriver\support\expected_conditions.py", line 411, in _find_element
+    return driver.find_element(*by)
+  File "C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 978, in find_element
+    'value': value})['value']
+  File "C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.WebDriverException: Message: chrome not reachable
+  (Session info: chrome=76.0.3809.132)
+
+WARNING: C:\Users\DELL\PycharmProjects\crawlblog\venv\lib\site-packages\scrapy\spidermiddlewares\offsite.py:61: URLWarning: allowed_domains accepts only domains, not URLs. Ignoring URL entry https://ad.oceanengine.com in allowed_domains.
+  warnings.warn(message, URLWarning)
+

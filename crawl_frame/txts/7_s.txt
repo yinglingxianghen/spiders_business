@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: application/json;charset=utf-8
+Connection: keep-alive
+Date: Tue, 08 Oct 2019 08:49:44 GMT
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+X_TT_LOGID: 201910081649440100140510921C25B296
+upstream-caught: 1570524584671664
+X-TT-LOGID: 201910081649440100140510921C25B296
+server-timing: inner; dur=112
+server-timing: cdn-cache;desc=MISS,edge;dur=1,origin;dur=126
+Via: cache3.l2nu20-1[126,0], cache10.cn1221[127,0]
+Timing-Allow-Origin: *
+EagleId: 77a7fa9e15705245846611805e
+Content-Length: 1034
+
+{"status": "success", "code": 0, "request_id": "201910081649440100140510921C25B296", "msg": "", "message": "", "data": {"pagination": {"has_more": false, "total_count": 1, "page_count": 1, "limit": 20, "display_pagination_count": 5, "offset": 0, "base_query": {}, "page": 1, "use_offset": false}, "statistics": {"deep_convert_rate": "0.00", "cpm_platform": "0.00", "ctr": "0.00", "conversion_cost": "0.00", "click_cnt": "0", "deep_convert_cost": "0.00", "conversion_rate": "0.00", "stat_cost": "0.00", "convert_cnt": "0", "show_cnt": "0", "cpc_platform": "0.00", "deep_convert_cnt": "0", "cost": "0.0"}, "stats": [{"deep_convert_rate": "0.00", "advertiser_name": "\u5e7f\u544a\u4e3b-1643003280762883", "advertiser_id": "1643003280762883", "conversion_rate": "0.00", "cost": "0.0", "cpm_platform": "0.00", "convert_cnt": "0", "show_cnt": "0", "cpc_platform": "0.00", "stat_time_day": "2019-08-28", "ctr": "0.00", "conversion_cost": "0.00", "click_cnt": "0", "deep_convert_cost": "0.00", "stat_cost": "0.00", "deep_convert_cnt": "0"}]}}

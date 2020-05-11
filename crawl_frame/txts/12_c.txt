@@ -1,0 +1,20 @@
+CONNECThttps://ad.oceanengine.com/statistics/audience/advertiser_chart/ HTTP/1.1
+Host: ad.oceanengine.com
+User-Agent: Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+Accept-Encoding: gzip,deflate,br
+Accept: application/json,text/javascript,*/*;q=0.01
+Connection: keep-alive
+Content-Length: 76
+Pragma: no-cache
+Cache-Control: no-cache
+X-CSRFToken: nfNV318MSV5rO74e1vMnoWScce49bZWb
+X-Requested-With: XMLHttpRequest
+Sec-Fetch-Mode: cors
+Content-Type: application/json
+Origin: https://ad.oceanengine.com
+Sec-Fetch-Site: same-origin
+Referer: https://ad.oceanengine.com/pages/reporter/ad-report.html?report_type=advertiser
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: aefa4e5d2593305f_gr_cs1=1643003280762883; aefa4e5d2593305f_gr_last_sent_cs1=1643003280762883; aefa4e5d2593305f_gr_last_sent_sid_with_cs1=c3e6da15-edaa-42a9-b1bb-accee4e2d135; aefa4e5d2593305f_gr_session_id=c3e6da15-edaa-42a9-b1bb-accee4e2d135; aefa4e5d2593305f_gr_session_id_c3e6da15-edaa-42a9-b1bb-accee4e2d135=true; csrf_token=zAkWXmZUwp3Z7ObdSiK7DJrpoKZrBr2I; csrftoken=nfNV318MSV5rO74e1vMnoWScce49bZWb; gr_user_id=5f2bf2a9-c173-445f-b57c-f28aceda4dfe; grwng_uid=d219227e-f7dc-441d-826a-997560c92c0a; login_flag=d12df5680e1a6e72f9d07c571326444b; sessionid=6f9238baa93c58611a0caecb545ed111; sid=6f9238baa93c58611a0caecb545ed111; sid_guard="6f9238baa93c58611a0caecb545ed111|1569469700|2592000|Sat\054 26-Oct-2019 03:48:20 GMT"; sid_tt=6f9238baa93c58611a0caecb545ed111; uid_tt=c254103eb1e9ee04bb3225a35e6a9e27edf6fb1c745da4a701f2ffcd08678331
+
+{"st": "2019-08-23", "et": "2019-08-29", "page": 1, "dims": "province_name"}

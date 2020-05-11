@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: application/json;charset=utf-8
+Connection: keep-alive
+Date: Thu, 26 Sep 2019 03:48:46 GMT
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+X_TT_LOGID: 201909261148450100140510910DFC7DDB
+upstream-caught: 1569469725980630
+X-TT-LOGID: 201909261148450100140510910DFC7DDB
+server-timing: inner; dur=108
+server-timing: cdn-cache;desc=MISS,edge;dur=19,origin;dur=124
+Via: cache26.l2nu20-2[124,0], cache19.cn1275[143,0]
+Timing-Allow-Origin: *
+EagleId: 7b061ea715694697259625600e
+Content-Length: 2618
+
+{"status": "success", "code": 0, "request_id": "201909261148450100140510910DFC7DDB", "msg": "", "message": "", "data": {"pagination": {"has_more": false, "total_count": 1, "page_count": 1, "limit": 20, "display_pagination_count": 5, "offset": 0, "base_query": {}, "page": 1, "use_offset": false}, "stats": [{"advertiser_name": "\u5e7f\u544a\u4e3b-1643003280762883", "play_50_feed_break": "0", "next_day_open_rate": "0.00", "pre_loan_credit_cost": "0.00", "valid_play_rate": "0.00", "redirect": "0", "valid_play": "0", "in_app_uv": "0", "active_register_cost": "0.00", "loan_credit": "0", "total_play": "0", "advertiser_id": "1643003280762883", "loan_credit_rate": "0.00", "click_start_rate": "0.00", "convert_cnt": "0", "qq": "0", "active_cost": "0.00", "button": "0", "loan_completion_cost": "0.00", "click_cnt": "0", "next_day_open": "0", "view": "0", "game_addiction": "0", "game_addiction_cost": "0.00", "active_rate": "0.00", "active_pay_cost": "0.00", "cost": "0.0", "loan_completion": "0", "click_start_cnt": "0", "install_finish_rate": "0.00", "play_75_feed_break": "0", "play_25_feed_break": "0", "click_call_cnt": "0", "coupon_addition": "0", "install_finish_cost": "0.00", "play_duration_sum": "0.00", "play_over_rate": "0.00", "download_start": "0", "cpm_platform": "0.00", "dy_like": "0", "click_counsel": "0", "ies_challenge_click": "0", "click_start_cost": "0.00", "active": "0", "show_cnt": "0", "loan_completion_rate": "0.00", "wifi_play": "0.0", "ctr": "0.00", "deep_convert_cost": "0.00", "phone_confirm": "0", "consult_effective": "0", "coupon": "0", "active_register_rate": "0.00", "conversion_rate": "0.00", "download_finish_cost": "0.00", "vote": "0", "message": "0", "lottery": "0", "download_finish_rate": "0.00", "play_over": "0.0", "loan_credit_cost": "0.00", "deep_convert_rate": "0.00", "shopping": "0", "form": "0", "dy_share": "0", "location_click": "0", "phone": "0", "wifi_play_rate": "0.00", "consult": "0", "game_addiction_rate": "0.00", "active_pay_rate": "0.00", "active_pay": "0", "dy_comment": "0", "in_app_order": "0", "dy_follow": "0", "pre_loan_credit": "0", "form_click_button": "0", "phone_connect": "0", "install_finish_cnt": "0", "cpc_platform": "0.00", "ies_music_click": "0", "coupon_single_page": "0", "valid_play_cost": "0.00", "stat_cost": "0.00", "play_99_feed_break": "0", "download_finish_cnt": "0", "in_app_cart": "0", "in_app_detail_uv": "0", "map": "0", "average_play_time_per_play": "0.00", "wechat": "0", "dy_home_visited": "0", "conversion_cost": "0.00", "in_app_pay": "0.00", "next_day_open_cost": "0.00", "active_register": "0", "deep_convert_cnt": "0"}]}}

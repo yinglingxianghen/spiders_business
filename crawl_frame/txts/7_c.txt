@@ -1,0 +1,20 @@
+CONNECThttps://ad.oceanengine.com/statistics/promote/advertiser_stat/ HTTP/1.1
+Host: ad.oceanengine.com
+User-Agent: Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+Accept-Encoding: gzip,deflate,br
+Accept: application/json,text/javascript,*/*;q=0.01
+Connection: keep-alive
+Content-Length: 342
+Pragma: no-cache
+Cache-Control: no-cache
+X-CSRFToken: ew1wAwdIxBAq4zNEFXZ3WbYturxtqf6o
+X-Requested-With: XMLHttpRequest
+Sec-Fetch-Mode: cors
+Content-Type: application/json
+Origin: https://ad.oceanengine.com
+Sec-Fetch-Site: same-origin
+Referer: https://ad.oceanengine.com/pages/reporter/ad-report.html?report_type=advertiser
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: aefa4e5d2593305f_gr_cs1=1643003280762883; aefa4e5d2593305f_gr_last_sent_cs1=1643003280762883; aefa4e5d2593305f_gr_last_sent_sid_with_cs1=83487f17-ffbd-46c2-8db3-851e9ff8ad8c; aefa4e5d2593305f_gr_session_id=83487f17-ffbd-46c2-8db3-851e9ff8ad8c; aefa4e5d2593305f_gr_session_id_83487f17-ffbd-46c2-8db3-851e9ff8ad8c=true; csrf_token=fMyfGjqtRIpl9fi8sRvRxHmPjU1HNSaj; csrftoken=ew1wAwdIxBAq4zNEFXZ3WbYturxtqf6o; gr_user_id=81093f85-4425-4acc-9bc1-a176084bc01b; grwng_uid=37a28949-8713-4b17-b0db-410acfa20299; login_flag=5bc8073b27762b45b0cf23f4c6d5c941; sessionid=f919dd75b1b6bc44298548ad6f037cf4; sid=f919dd75b1b6bc44298548ad6f037cf4; sid_guard="f919dd75b1b6bc44298548ad6f037cf4|1570524573|2592000|Thu\054 07-Nov-2019 08:49:33 GMT"; sid_tt=f919dd75b1b6bc44298548ad6f037cf4; uid_tt=161172fa54eaa137b59fe685b5a61bc135f594d39cdae067c1935b8df8686a51
+
+{"st": "2019-08-28", "et": "2019-08-28", "day": 1, "page": 1, "limit": 20, "sort_stat": "stat_time_day", "sort_order": 0, "dims": "ad_id", "fields": ["show_cnt", "click_cnt", "ctr", "cpc_platform", "cpm_platform", "stat_cost", "convert_cnt", "conversion_cost", "conversion_rate", "deep_convert_cnt", "deep_convert_cost", "deep_convert_rate"]}

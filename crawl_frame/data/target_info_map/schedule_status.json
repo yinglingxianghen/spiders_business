@@ -1,0 +1,19 @@
+[
+  {"value":"TO_LOCK_FLOW","name": "待锁定"},
+  {"value":"LOCK_FLOW_FAIL","name": "排期失败"},
+  {"value":"LOCK_FLOW_ING","name": "等待排期结果"},
+  {"value":"ADSTATUS_PENDING","name": "审核中"},
+  {"value":"ADSTATUS_DENIED","name": "未通过"},
+  {"value":"ADSTATUS_READY","name": "待投放"},
+  {"value":"ADSTATUS_NORMAL","name": "投放中"},
+  {"value":"ADSTATUS_SUSPEND","name": "暂停投放"},
+  {"value":"ADSTATUS_FINISH","name": "投放结束"},
+  {"value":"ADSTATUS_CANCEL","name": "取消投放"},
+  {"value":"COOPERATION_PENDING","name": "合作确认中"},
+  {"value":"COOPERATION_NOT_OK","name": "合作未达成"},
+  {"value":"ADSTATUS_UNKNOWN","name": "系统处理中"},
+  {"value":"HOST_ARTICLE_PREPARING","name": "文章编辑中"},
+  {"value":"HOST_ARTICLE_PENDING","name": "文章待确认"},
+  {"value":"ADSTATUS_CREATING","name": "创建中"},
+  {"value":"LOCK_FLOW_SUC","name": "待提交广告"}
+]

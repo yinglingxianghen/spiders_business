@@ -1,0 +1,13 @@
+[
+  {"value":"PRODUCTTYPE_WECHAT_ARTICLE","name": "品牌活动推广"},
+  {"value":"PRODUCTTYPE_WECHAT_MINI_GAME","name": "小游戏推广"},
+  {"value":"PRODUCTTYPE_APPLE_APP_STORE","name": "移动应用推广"},
+  {"value":"PRODUCTTYPE_OPEN_PLATFORM_APP_MOB","name": "移动应用推广"},
+  {"value":"PRODUCTTYPE_WECHAT_CARD","name": "微信卡券推广"},
+  {"value":"PRODUCTTYPE_WECHAT_SHOP","name": "电商推广"},
+  {"value":"PRODUCTTYPE_WECHAT","name": "公众号推广"},
+  {"value":"PRODUCTTYPE_WECHAT_LBS","name": "本地推广"},
+  {"value":"PRODUCTTYPE_LEAD_AD","name": "收集销售线索"},
+  {"value":"PRODUCTTYPE_WECHAT_PAY_COUPON","name": "微信支付代金券"}
+
+]

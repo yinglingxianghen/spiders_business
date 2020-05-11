@@ -1,0 +1,52 @@
+GET/overture/index/advertiser_chart/?st=2019-08-22&et=2019-08-28&_=1567064637411 HTTP/1.1
+Host: ad.oceanengine.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept: */*
+Connection: keep-alive
+X-OverrideGateway: 113.128.122.249:21822
+Sec-Fetch-Mode: cors
+Content-Type: application/x-www-form-urlencoded
+Origin: https://ad.oceanengine.com
+Sec-Fetch-Site: cross-site
+Referer: https://ad.oceanengine.com/pages/login/index.html
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: aefa4e5d2593305f_gr_session_id=5d144a1f-cb3b-4dec-853e-099b2186d475; aefa4e5d2593305f_gr_session_id_5d144a1f-cb3b-4dec-853e-099b2186d475=true; csrftoken=t5fHwDPWrTwXNPaYhINgerRBr4MU6oiP; gr_user_id=84778585-1fbe-4f98-926a-419ad4170fc5; grwng_uid=e5b4522e-4481-4737-b9fb-7085d04a9aa3
+
+
+HTTP/1.1 302 FOUND
+Server: Tengine
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Date: Tue, 10 Sep 2019 06:28:33 GMT
+X-Request-Id: 35998541568096913278
+X_TT_LOGID: 2019091014283301001807108727798D
+upstream-caught: 1568096913281378
+Location: https://ad.oceanengine.com/pages/login/index.html?redirect_uri=/overture/index/advertiser_chart/?st=2019-08-22&et=2019-08-28&_=1567064637411
+TCE_HOST: 10.18.71.87
+Set-Cookie: part=stable; Domain=.toutiao.com; expires=Wed, 11-Sep-2019 06:28:33 GMT; Max-Age=86400; Path=/
+Set-Cookie: tt_webid=6734924929584596483; Domain=.toutiao.com; expires=Wed, 09-Sep-2020 06:28:33 GMT; Path=/
+X-TT-LOGID: 2019091014283301001807108727798D
+X-UA-Compatible: IE=Edge,chrome=1
+server-timing: inner; dur=24
+Content-Security-Policy-Report-Only: default-src 'self' blob: data: 'unsafe-inline' 'unsafe-eval' dn-growing.qbox.me *.baidu.com *.bdstatic.com *.google-analytics.com *.growingio.com *.douyin.com *.snssdk.com *.bytecdn.cn *.bytedance.net *.bytedance.com *.toutiaopage.com *.chengzijianzhan.com *.byted.org *.365yg.com *.toutiao.com *.pstatp.com *.ixigua.com *.ixiguavideo.com *.ribaoapi.com *.bdurl.net *.openlanguage.com *.jinritemai.com *.oceanengine.com;report-uri https://csp.snssdk.com/v17
+Via: cache5.l2nu20-2[38,0], cache12.cn903[59,0]
+Timing-Allow-Origin: *
+EagleId: 3af3b4a015680969132595634e
+
+GET/pages/login/index.html?redirect_uri=/overture/index/advertiser_chart/?st=2019-08-22&et=2019-08-28&_=1567064637411 HTTP/1.1
+Host: ad.oceanengine.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept: */*
+Connection: keep-alive
+X-OverrideGateway: 113.128.122.249:21822
+Sec-Fetch-Mode: cors
+Origin: https://ad.oceanengine.com
+Sec-Fetch-Site: cross-site
+Referer: https://ad.oceanengine.com/pages/login/index.html
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: aefa4e5d2593305f_gr_session_id=5d144a1f-cb3b-4dec-853e-099b2186d475; aefa4e5d2593305f_gr_session_id_5d144a1f-cb3b-4dec-853e-099b2186d475=true; csrftoken=t5fHwDPWrTwXNPaYhINgerRBr4MU6oiP; gr_user_id=84778585-1fbe-4f98-926a-419ad4170fc5; grwng_uid=e5b4522e-4481-4737-b9fb-7085d04a9aa3
+
+

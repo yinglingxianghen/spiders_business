@@ -1,0 +1,23 @@
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: application/json;charset=utf-8
+Connection: keep-alive
+Date: Thu, 26 Sep 2019 03:48:56 GMT
+Vary: Accept-Encoding
+X_TT_LOGID: 2019092611485501001405109130FC7371
+X-Request-Id: 17273091569469735770
+upstream-caught: 1569469735771674
+TCE_HOST: 10.8.18.53
+Set-Cookie: part=stable; Domain=.toutiao.com; expires=Fri, 27-Sep-2019 03:48:56 GMT; Max-Age=86400; Path=/
+Set-Cookie: tt_webid=6740821153147700750; Domain=.toutiao.com; expires=Fri, 25-Sep-2020 03:48:56 GMT; Path=/
+X-TT-LOGID: 2019092611485501001405109130FC7371
+X-UA-Compatible: IE=Edge,chrome=1
+server-timing: inner; dur=644
+server-timing: cdn-cache;desc=MISS,edge;dur=17,origin;dur=672
+Content-Security-Policy-Report-Only: default-src 'self' blob: data: 'unsafe-inline' 'unsafe-eval' dn-growing.qbox.me *.baidu.com *.bdstatic.com *.google-analytics.com *.growingio.com *.douyin.com *.snssdk.com *.bytecdn.cn *.bytedance.net *.bytedance.com *.toutiaopage.com *.chengzijianzhan.com *.byted.org *.365yg.com *.toutiao.com *.pstatp.com *.ixigua.com *.ixiguavideo.com *.ribaoapi.com *.bdurl.net *.openlanguage.com *.jinritemai.com *.oceanengine.com;report-uri https://csp.snssdk.com/v17
+Via: cache3.l2nu20-2[672,0], cache19.cn1275[689,0]
+Timing-Allow-Origin: *
+EagleId: 7b061ea715694697357436743e
+Content-Length: 909
+
+{"status": "success", "data": {"status": 10, "end_date": 1567094400, "money": 0.0, "valid_dealbase": 0.0, "valid_cash": 0.0, "advertiser_id": 1643003280762883, "dealbase": 0.0, "cost": 0.0, "transfer_out": 0.0, "valid_abs": 0.0, "valid_return_goods_abs": 0, "return_goods_abs": 0, "id": 1643003280762883, "pagination": {"has_more": false, "total_count": 0, "limit": 20, "display_pagination_count": 5, "offset": 0, "base_query": {}, "page": 1, "use_offset": false}, "statistics": {"cash_cost": null, "cost": null, "reward_cost": null, "income": null, "transfer_out": null, "return_goods_cost": null, "transfer_in": null}, "name": "\u5e7f\u544a\u4e3b-1643003280762883", "grant": 0.0, "items": [], "cash": 0.0, "valid_grant": 0.0, "email": "2********8@q*.com", "transfer_in": 0.0, "deposit": 0, "income": 0.0, "status_display": "\u81ea\u52a9\u5f00\u6237\u5f85\u9a8c\u8bc1\u8d44\u8d28", "start_date": 1546272000}}

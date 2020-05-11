@@ -1,0 +1,165 @@
+GET/overture/index/advertiser_chart/?st=2019-08-22&et=2019-08-28&_=1567064637411 HTTP/1.1
+Host: ad.oceanengine.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept: */*
+Connection: keep-alive
+X-OverrideGateway: 113.128.122.249:21822
+Sec-Fetch-Mode: cors
+Content-Type: application/x-www-form-urlencoded
+Origin: https://ad.oceanengine.com
+Sec-Fetch-Site: cross-site
+Referer: https://ad.oceanengine.com/pages/login/index.html
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: aefa4e5d2593305f_gr_session_id=5d144a1f-cb3b-4dec-853e-099b2186d475; aefa4e5d2593305f_gr_session_id_5d144a1f-cb3b-4dec-853e-099b2186d475=true; csrftoken=t5fHwDPWrTwXNPaYhINgerRBr4MU6oiP; gr_user_id=84778585-1fbe-4f98-926a-419ad4170fc5; grwng_uid=e5b4522e-4481-4737-b9fb-7085d04a9aa3
+
+
+HTTP/1.1 302 FOUND
+Server: Tengine
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Date: Tue, 10 Sep 2019 06:28:33 GMT
+X-Request-Id: 35998541568096913278
+X_TT_LOGID: 2019091014283301001807108727798D
+upstream-caught: 1568096913281378
+Location: https://ad.oceanengine.com/pages/login/index.html?redirect_uri=/overture/index/advertiser_chart/?st=2019-08-22&et=2019-08-28&_=1567064637411
+TCE_HOST: 10.18.71.87
+Set-Cookie: part=stable; Domain=.toutiao.com; expires=Wed, 11-Sep-2019 06:28:33 GMT; Max-Age=86400; Path=/
+Set-Cookie: tt_webid=6734924929584596483; Domain=.toutiao.com; expires=Wed, 09-Sep-2020 06:28:33 GMT; Path=/
+X-TT-LOGID: 2019091014283301001807108727798D
+X-UA-Compatible: IE=Edge,chrome=1
+server-timing: inner; dur=24
+Content-Security-Policy-Report-Only: default-src 'self' blob: data: 'unsafe-inline' 'unsafe-eval' dn-growing.qbox.me *.baidu.com *.bdstatic.com *.google-analytics.com *.growingio.com *.douyin.com *.snssdk.com *.bytecdn.cn *.bytedance.net *.bytedance.com *.toutiaopage.com *.chengzijianzhan.com *.byted.org *.365yg.com *.toutiao.com *.pstatp.com *.ixigua.com *.ixiguavideo.com *.ribaoapi.com *.bdurl.net *.openlanguage.com *.jinritemai.com *.oceanengine.com;report-uri https://csp.snssdk.com/v17
+Via: cache5.l2nu20-2[38,0], cache12.cn903[59,0]
+Timing-Allow-Origin: *
+EagleId: 3af3b4a015680969132595634e
+
+GET/pages/login/index.html?redirect_uri=/overture/index/advertiser_chart/?st=2019-08-22&et=2019-08-28&_=1567064637411 HTTP/1.1
+Host: ad.oceanengine.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept: */*
+Connection: keep-alive
+X-OverrideGateway: 113.128.122.249:21822
+Sec-Fetch-Mode: cors
+Origin: https://ad.oceanengine.com
+Sec-Fetch-Site: cross-site
+Referer: https://ad.oceanengine.com/pages/login/index.html
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: aefa4e5d2593305f_gr_session_id=5d144a1f-cb3b-4dec-853e-099b2186d475; aefa4e5d2593305f_gr_session_id_5d144a1f-cb3b-4dec-853e-099b2186d475=true; csrftoken=t5fHwDPWrTwXNPaYhINgerRBr4MU6oiP; gr_user_id=84778585-1fbe-4f98-926a-419ad4170fc5; grwng_uid=e5b4522e-4481-4737-b9fb-7085d04a9aa3
+
+
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Date: Tue, 10 Sep 2019 06:28:33 GMT
+Vary: Accept-Encoding
+X_TT_LOGID: 20190910142833010011020014372209
+X-Request-Id: 35844131568096913372
+upstream-caught: 1568096913386976
+TCE_HOST: 10.11.20.14
+Set-Cookie: part=stable; Domain=.toutiao.com; expires=Wed, 11-Sep-2019 06:28:33 GMT; Max-Age=86400; Path=/
+Set-Cookie: tt_webid=6734924929404798476; Domain=.toutiao.com; expires=Wed, 09-Sep-2020 06:28:33 GMT; Path=/
+X-TT-LOGID: 20190910142833010011020014372209
+X-UA-Compatible: IE=Edge,chrome=1
+Content-Encoding: gzip
+server-timing: inner; dur=40
+Content-Security-Policy-Report-Only: default-src 'self' blob: data: 'unsafe-inline' 'unsafe-eval' dn-growing.qbox.me *.baidu.com *.bdstatic.com *.google-analytics.com *.growingio.com *.douyin.com *.snssdk.com *.bytecdn.cn *.bytedance.net *.bytedance.com *.toutiaopage.com *.chengzijianzhan.com *.byted.org *.365yg.com *.toutiao.com *.pstatp.com *.ixigua.com *.ixiguavideo.com *.ribaoapi.com *.bdurl.net *.openlanguage.com *.jinritemai.com *.oceanengine.com;report-uri https://csp.snssdk.com/v17
+Via: cache20.l2nu20-2[53,0], cache12.cn903[73,0]
+Timing-Allow-Origin: *
+EagleId: 3af3b4a015680969133525963e
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>巨量引擎广告投放平台</title>
+  <script src="//s0.pstatp.com/cdn/expire-1-y/??jquery/3.2.1/jquery.min.js,jquery-cookie/1.4.1/jquery.cookie.js,vue/2.5.6/vue.js"></script>
+  <script src="//sf1-ttcdn-tos.pstatp.com/obj/ttfe/adfe/clamp.min.js"></script>
+  <link rel="icon" type="image/x-icon" href="data:image/png;base64,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"/>
+  <style type="text/css">
+    * {
+      margin: 0;
+      padding: 0;
+    }
+  </style>
+
+<script type="text/javascript" data-single="true" src="//s1.pstatp.com/bytecom/resource/creative_web/static/pkg/asyncmap_8eda4c9.js"></script>
+
+</head>
+
+<body>
+<div id="app"></div>
+
+<!-- 统一头部 -->
+
+<script src="https://s3.pstatp.com/bytecom/common-header/ad-86/index.js" data-src-type="toutiao-header-sdk"></script>
+
+
+
+<script type="text/javascript">
+  var headerInstance = TouTiaoHeaderSdk.headerFun()
+</script>
+
+<!-- 统一登录框 -->
+
+<script src="//s2.pstatp.com/bytecom/common-login-sdk/ad-sdk-v035/index.js?_t=1508474180241"></script>
+
+
+<script type="text/javascript">
+  var login_type_by_pwd = Math.random() * 100 <= 95
+  var loginInstance = window.TouTiaoLoginSdk()
+  var query = loginInstance.tool.queryToJson()
+  var baseUrl = window.location.protocol + '//' + window.location.host
+  function loadLoginInstance () {
+    if (document.querySelector('#login')) {
+      loginInstance.methods.load({
+        "render_to": "#login",
+        "container": {
+          "style": {
+            "background": "rgba(255, 255, 255, 1)",
+            "width": "340px !important",
+            "min-height": "420px !important",
+            "padding": '24px 32px 0 32px',
+          }
+        },
+        "button": {
+          "style": {
+            "background": "#2F88FF",
+            "border-radius": "4px",
+            "height": "34px"
+          }
+        },
+        "input": {
+          "style": {
+            "border-radius": "4px",
+            "height": "34px",
+            "line-height": "34px"
+          }
+        },
+        "other_action_config": {
+          "register": {
+            "link": "/self_service/",
+          }
+        },
+        "callback_url": query.callback_url ? query.callback_url : baseUrl,
+        "initial_login_type_is_password": login_type_by_pwd,
+        "set_cookie": true
+      })
+    } else {
+      setTimeout(loadLoginInstance, 100)
+    }
+  }
+  loadLoginInstance()
+</script>
+
+
+<script type="text/javascript" charset="UTF-8" src="https://s1.pstatp.com/bytecom/platform_web/static/js/config.1.0.0.1751.js"></script>
+
+
+</body>
+</html>

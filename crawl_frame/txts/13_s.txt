@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: application/json;charset=utf-8
+Connection: keep-alive
+Date: Thu, 26 Sep 2019 03:48:48 GMT
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+X_TT_LOGID: 201909261148480100140510911AFC4A08
+upstream-caught: 1569469728657371
+X-TT-LOGID: 201909261148480100140510911AFC4A08
+server-timing: inner; dur=56
+server-timing: cdn-cache;desc=MISS,edge;dur=21,origin;dur=70
+Via: cache32.l2nu20-2[70,0], cache19.cn1275[91,0]
+Timing-Allow-Origin: *
+EagleId: 7b061ea715694697286385133e
+Content-Length: 133
+
+{"status": "success", "code": 0, "request_id": "201909261148480100140510911AFC4A08", "msg": "", "message": "", "data": {"stats": []}}

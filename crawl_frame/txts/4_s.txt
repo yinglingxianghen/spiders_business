@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: application/json;charset=utf-8
+Connection: keep-alive
+Date: Tue, 08 Oct 2019 08:49:41 GMT
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+X_TT_LOGID: 20191008164941010021039016140C2A4E
+upstream-caught: 1570524581287143
+X-TT-LOGID: 20191008164941010021039016140C2A4E
+server-timing: inner; dur=72
+server-timing: cdn-cache;desc=MISS,edge;dur=1,origin;dur=95
+Via: cache2.l2nu20-1[95,0], cache10.cn1221[96,0]
+Timing-Allow-Origin: *
+EagleId: 77a7fa9e15705245812747155e
+Content-Length: 501
+
+{"status": "success", "code": 0, "request_id": "20191008164941010021039016140C2A4E", "msg": "", "message": "", "data": {"pagination": {"has_more": false, "total_count": 0, "page_count": 0, "limit": 20, "display_pagination_count": 5, "offset": 0, "base_query": {}, "page": 1, "use_offset": false}, "statistics": {"deep_convert_rate": "0.00", "cpm_platform": "0.00", "ctr": "0.00", "conversion_cost": "0.00", "deep_convert_cost": "0.00", "conversion_rate": "0.00", "cpc_platform": "0.00"}, "stats": []}}

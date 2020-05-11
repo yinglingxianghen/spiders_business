@@ -1,0 +1,13 @@
+GET/pages/login/index.html?redirect_uri=/overture/index/advertiser_chart/?st=2019-08-22&et=2019-08-28&_=1567064637411 HTTP/1.1
+Host: ad.oceanengine.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+Accept-Encoding: gzip,deflate, br
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3
+Connection: keep-alive
+X-OverrideGateway: 117.69.202.117:22652
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: aefa4e5d2593305f_gr_session_id=238c1a1a-66d3-4778-aeaa-b9cc86b27f96; aefa4e5d2593305f_gr_session_id_238c1a1a-66d3-4778-aeaa-b9cc86b27f96=true; csrftoken=ioKgUUfqmVAnQmrraRPaAuOusgj9ccon; gr_user_id=5b6a04eb-e5df-4d59-a498-764b3f367c55; grwng_uid=ffeedec1-a223-4759-90d2-24c23aa3ce6c
+
+

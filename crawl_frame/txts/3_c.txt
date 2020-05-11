@@ -1,0 +1,20 @@
+CONNECThttps://ad.oceanengine.com/promote/campaign/stat_list/ HTTP/1.1
+Host: ad.oceanengine.com
+User-Agent: Mozilla/5.0(Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+Accept-Encoding: gzip,deflate,br
+Accept: application/json,text/javascript,*/*;q=0.01
+Connection: keep-alive
+Content-Length: 1830
+Pragma: no-cache
+Cache-Control: no-cache
+X-CSRFToken: ew1wAwdIxBAq4zNEFXZ3WbYturxtqf6o
+X-Requested-With: XMLHttpRequest
+Sec-Fetch-Mode: cors
+Content-Type: application/json
+Origin: https://ad.oceanengine.com
+Sec-Fetch-Site: same-origin
+Referer: https://ad.oceanengine.com/pages/promotion.html
+Accept-Language: zh-CN,zh;q=0.9
+Cookie: aefa4e5d2593305f_gr_cs1=1643003280762883; aefa4e5d2593305f_gr_last_sent_cs1=1643003280762883; aefa4e5d2593305f_gr_last_sent_sid_with_cs1=83487f17-ffbd-46c2-8db3-851e9ff8ad8c; aefa4e5d2593305f_gr_session_id=83487f17-ffbd-46c2-8db3-851e9ff8ad8c; aefa4e5d2593305f_gr_session_id_83487f17-ffbd-46c2-8db3-851e9ff8ad8c=true; csrf_token=fMyfGjqtRIpl9fi8sRvRxHmPjU1HNSaj; csrftoken=ew1wAwdIxBAq4zNEFXZ3WbYturxtqf6o; gr_user_id=81093f85-4425-4acc-9bc1-a176084bc01b; grwng_uid=37a28949-8713-4b17-b0db-410acfa20299; login_flag=5bc8073b27762b45b0cf23f4c6d5c941; sessionid=f919dd75b1b6bc44298548ad6f037cf4; sid=f919dd75b1b6bc44298548ad6f037cf4; sid_guard="f919dd75b1b6bc44298548ad6f037cf4|1570524573|2592000|Thu\054 07-Nov-2019 08:49:33 GMT"; sid_tt=f919dd75b1b6bc44298548ad6f037cf4; uid_tt=161172fa54eaa137b59fe685b5a61bc135f594d39cdae067c1935b8df8686a51
+
+{"st": "2019-09-23", "et": "2019-09-23", "page": 1, "limit": 100, "fields": ["stat_cost", "show_cnt", "cpm_platform", "click_cnt", "cpc_platform", "ctr", "convert_cnt", "conversion_cost", "conversion_rate", "dy_share", "dy_like", "dy_follow", "dy_home_visited", "ies_challenge_click", "ies_music_click", "location_click", "dy_comment", "total_play", "valid_play", "valid_play_rate", "valid_play_cost", "play_25_feed_break", "play_50_feed_break", "play_75_feed_break", "play_99_feed_break", "play_over_rate", "average_play_time_per_play", "wifi_play_rate", "click_call_cnt", "click_counsel", "form_click_button", "coupon_addition", "phone", "form", "map", "button", "view", "download_start", "qq", "lottery", "vote", "message", "redirect", "shopping", "consult", "wechat", "phone_confirm", "phone_connect", "consult_effective", "coupon", "coupon_single_page", "click_start_cnt", "click_start_cost", "click_start_rate", "download_finish_cnt", "download_finish_cost", "download_finish_rate", "install_finish_cnt", "install_finish_cost", "install_finish_rate", "active", "active_cost", "active_rate", "active_register", "active_register_cost", "active_register_rate", "game_addiction", "game_addiction_cost", "game_addiction_rate", "attribution_next_day_open_cnt", "attribution_next_day_open_cost", "attribution_next_day_open_rate", "next_day_open", "active_pay", "active_pay_cost", "active_pay_rate", "in_app_uv", "in_app_detail_uv", "in_app_cart", "in_app_order", "in_app_pay", "loan_completion", "loan_completion_cost", "loan_completion_rate", "pre_loan_credit", "pre_loan_credit_cost", "loan_credit", "loan_credit_cost", "loan_credit_rate", "attribution_convert_cnt", "attribution_convert_cost", "attribution_deep_convert_cnt", "attribution_deep_convert_cost"], "sort_stat": "create_time", "sort_order": 1, "campaign_status": [1]}
